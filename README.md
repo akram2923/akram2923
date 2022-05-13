@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akram
-- 👀 I’m interested in  javascript and php
-- 🌱 I’m currently learning javasacript and php
+- 👀 I’m interested in  Mern stack
+- 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 akramdelast@gmail.com
 
 <!---
 akram2923/akram2923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
