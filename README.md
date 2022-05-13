@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akram2923
+- 👋 Hi, I’m @akram
 - 👀 I’m interested in  javascript and php
 - 🌱 I’m currently learning javasacript and php
 - 💞️ I’m looking to collaborate on ...
